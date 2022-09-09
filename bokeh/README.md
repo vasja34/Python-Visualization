@@ -20,6 +20,12 @@ for community discussion.
 
 [Geeks-for-Geeks: interactive data visualization with bokeh](https://www.geeksforgeeks.org/python-bokeh-tutorial-interactive-data-visualization-with-bokeh/)
 
+## Plots Gallery
+
+![bokeh-1](../images/bokeh-1.gif)
+![bokeh-2](../images/bokeh-2.gif)
+![bokeh-3](../images/bokeh-3.gif)
+
 ## Clone or download the repo
 
 First get local copies of the tutorial notebooks:
